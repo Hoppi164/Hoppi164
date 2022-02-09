@@ -3,7 +3,10 @@
 
 My name is Drew, I'm a Fullstack Web Developer specialising in Vue/Firebase Progressive Web Apps
 
-I like to contribute to open-source software when i get the time; and i'm always working on odd personal projects. Feel free to drop by to say hello! :D
+I like to contribute to **open-source software** when i get the time;
+And i'm always working on random **personal projects**. 
+
+Feel free to drop by to say hello! :D
 
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=Hoppi164.Hoppi164&left_color=forestgreen&right_color=grey)
 
