@@ -1,13 +1,13 @@
 ### Hi there <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px"> 
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=Hoppi164.Hoppi164&left_color=forestgreen&right_color=grey)
-
 
 My name is Drew, I'm a Fullstack Web Developer specialising in Vue/Firebase Progressive Web Apps
 
+I like to contribute to open-source software when i get the time; and i'm always working on odd personal projects. Feel free to drop by to say hello! :D
+
+![visitors](https://visitor-badge.deta.dev/badge?page_id=Hoppi164.Hoppi164&left_color=forestgreen&right_color=grey)
 
 <hr>
-
 
 ##### Languages And Tools
 ###### Frontend
@@ -29,6 +29,8 @@ My name is Drew, I'm a Fullstack Web Developer specialising in Vue/Firebase Prog
 ###### I also know (but am less proficient)
 ![React](https://img.shields.io/badge/react-grey.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-grey.svg?style=for-the-badge&logo=java&logoColor=%23ED8B00) ![NuxtJS](https://img.shields.io/badge/Nuxt-grey?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
 ![cypress](https://img.shields.io/badge/-cypress-grey?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Netlify](https://img.shields.io/badge/netlify-grey.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Unity](https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+
 
 
 
